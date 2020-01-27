@@ -1,0 +1,19 @@
+
+Rsquid:S1066C"/Merge this if statement with the enclosing one.(æÒ¨âøÿÿÿÿ8û³àõì-
+Nsquid:S14818"0Remove this unused "dateReadStr" local variable.(êˆÚÛ8£”„Êö-
+Lsquid:S1481@".Remove this unused "newString" local variable.(ÜÛ±›8û³àõì-
+Isquid:S10755"&Remove this hard-coded path-delimiter.(·…Şƒşÿÿÿÿ8û³àõì-
+Csquid:S2885" Make "sdf" an instance variable.(™¥€—ıÿÿÿÿ8û³àõì-
+Fsquid:S1148T"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8û³àõì-
+Dsquid:S1075;"&Remove this hard-coded path-delimiter.(ŒÖ·Ä8û³àõì-
+nsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8½°ˆó-
+Fsquid:S1148'"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8û³àõì-
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(™İÀÙÿÿÿÿÿ8û³àõì-
+isquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(¹´ô8½°ˆó-
+nsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(æ»£ãúÿÿÿÿ8£”„Êö-
+]squid:S18548"?Remove this useless assignment to local variable "dateReadStr".(êˆÚÛ8£”„Êö-
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8û³àõì-
+isquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(¡Õ±š8£”„Êö-
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(éâ€ˆıÿÿÿÿ8û³àõì-

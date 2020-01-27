@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FTPTransporter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FTPTransporter_jar</output-path>
+    <root id="archive" name="FTPTransporter.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/production/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="FTPTransporter" />
+      <element id="library" level="project" name="mysql-connector-5.1.18" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

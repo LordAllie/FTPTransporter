@@ -1,0 +1,20 @@
+Connection to MYSQL stablished!..
+Starting Timestamp: 2019-10-17 17:49:02.849
+No data to be saved
+End Timestamp: 2019-10-17 17:49:02.856
+MYSQL connection closed!..
+Connection to MYSQL stablished!..
+Starting Timestamp: 2019-12-23 17:03:34.638
+BATELEC I payment_reference records deleted successfully.
+LOAD DATA LOCAL INFILE 'C:/Users/Daryll-POGI/Desktop/TestFolder/XEN PAY.csv' INTO TABLE payment_reference FIELDS TERMINATED BY '~'  LINES TERMINATED BY '
+' (accountNumber,accountName,billMonth,dueDate,amount) SET billerCode='BATELEC I'
+Connection to MYSQL stablished!..
+Starting Timestamp: 2019-12-23 17:03:56.693
+BATELEC I payment_reference records deleted successfully.
+LOAD DATA LOCAL INFILE 'C:/Users/Daryll-POGI/Desktop/TestFolder/XEN PAY.csv' INTO TABLE payment_reference FIELDS TERMINATED BY '~'  LINES TERMINATED BY '
+' (accountNumber,accountName,billMonth,dueDate,amount) SET billerCode='BATELEC I'
+Connection to MYSQL stablished!..
+Starting Timestamp: 2019-12-23 17:08:25.08
+BATELEC I payment_reference records deleted successfully.
+End Timestamp: 2019-12-23 17:08:25.939
+MYSQL connection closed!..

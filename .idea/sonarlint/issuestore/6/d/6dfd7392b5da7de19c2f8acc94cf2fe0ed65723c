@@ -1,0 +1,40 @@
+
+[
+squid:S106e"9Replace this use of System.out or System.err by a logger.(ÕóØŒøÿÿÿÿ8Õ¼İ-
+V
+squid:S106V"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8Î†Òá-
+xsquid:S1450"ZRemove the "deleteQuery" field and declare it as a local variable in the relevant methods.(¤ıîì8Î†Òá-
+tsquid:S00116"WRename this field "DATABASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÚÁıûÿÿÿÿ
+O
+squid:S106="9Replace this use of System.out or System.err by a logger.(ÉÃ¨½
+Fsquid:S1148U"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Î†Òá-
+jsquid:ModifiersOrderCheck "EReorder the modifiers to comply with the Java Language Specification.(‹¯·­
+U
+squid:S106j"9Replace this use of System.out or System.err by a logger.(Ğ„Ÿ8Î†Òá-
+O
+squid:S106G"9Replace this use of System.out or System.err by a logger.(ú¬ù®
+wsquid:S00116"ZRename this field "DATABASE_DRIVER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şå¸ªùÿÿÿÿ
+:squid:S11480"#Use a logger to log this exception.(Ç’Çê
+nsquid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(œîêüÿÿÿÿ8Î†Òá-
+T
+squid:S106J"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+T
+squid:S1069"9Replace this use of System.out or System.err by a logger.(£Ïùûûÿÿÿÿ
+?squid:S1148;"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Dsquid:S1481C"(Remove this unused "msg" local variable.(‰œòùÿÿÿÿ
+Asquid:S1068 "*Remove this unused "LOGGER" private field.(‹¯·­
+[
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(§¡ü‘ûÿÿÿÿ8”–Ã»İ-
+T
+squid:S106<"9Replace this use of System.out or System.err by a logger.(«Øş½üÿÿÿÿ
+Esquid:S1068")Remove this unused "count" private field.(Êâş¶úÿÿÿÿ
+V
+squid:S106W"9Replace this use of System.out or System.err by a logger.(‡öæñ8Î†Òá-
+O
+squid:S106."9Replace this use of System.out or System.err by a logger.(°éŒø
+T
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Œöø¤ûÿÿÿÿ
+?squid:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Gsquid:S1068")Remove this unused "getNo" private field.(ö½»­8ÎøÀİ-
+?squid:S1148I"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>squid:S1068"'Remove this unused "sdf" private field.(©Ì„€
