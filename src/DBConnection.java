@@ -86,7 +86,6 @@ public class DBConnection {
             System.out.println(e.toString());
             System.out.println("Error encountered in deleting table of payment_reference!..");
         } finally {
-//            closeMYConnection(conn);
             System.out.println("BATELEC I payment_reference records deleted successfully.");
         }
     }
